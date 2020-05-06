@@ -1,0 +1,12 @@
+#include <iostream> : c++ 기본 입출력
+#include <algorithm> : 알고리즘 제공 ex. sort
+#include <vector> : vector 제공
+
+#include <stdio.h> : c 기본 입출력 
+#include <cstdio> : c++과 같이 쓸때사용하는 c 기본 입출력
+#include <stdlib.h> : 동적메모리
+#include <limits.h> : 리미트 헤더파일 
+
+#include <queue> : queue 제공 (은행창구)
+#include <stack> : stack 제공 (택배 상하차)
+
