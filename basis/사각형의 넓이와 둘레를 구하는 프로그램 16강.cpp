@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <math.h>
 
+// 넓이 = 너비 x 높이 
+// 둘레 = 2 x 너비 + 2 x 높이 
+// 구조체 안에 또 구조체를 넣은 형식
+
 struct point{
 	int x;
 	int y;

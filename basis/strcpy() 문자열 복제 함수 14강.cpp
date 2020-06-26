@@ -2,6 +2,8 @@
 #include <string.h>
 
 // strcpy() 문자열 복제 함수 
+// 포인터를 다루는 함수  
+// 복사를 한 뒤에는 복사한값이 바뀌어도 값이 그래도 유지  
 
 int main(void)
 {
